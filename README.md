@@ -1,5 +1,8 @@
 # test-github-mirroring
 
+Generate an access token on GitHub, then enter the repository URL, username, and token into the following URL to mirror the repository.
+
+http://git.in.minelab/{name_user}/{name_repository}/-/settings/repository#js-push-remote-settings
 
 
 ## Getting started
